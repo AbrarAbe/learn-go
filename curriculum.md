@@ -5,9 +5,9 @@ This tutorial will guide you through the Go programming language. We'll cover th
 ## Curriculum:
 
 1.  **Introduction to Go & Setting Up Your Environment**
-    *   [ ] What is Go? Why use it?
-    *   [ ] Installing Go (and verifying the installation).
-    *   [ ] Your first "Hello, World!" program.
+    *   [x] What is Go? Why use it?
+    *   [x] Installing Go (and verifying the installation).
+    *   [x] Your first "Hello, World!" program.
     *   [ ] Understanding Go's project structure.
 
 2.  **Basic Syntax & Data Types**
