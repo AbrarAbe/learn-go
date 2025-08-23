@@ -5,13 +5,13 @@ This tutorial will guide you through the Go programming language. We'll cover th
 ## Curriculum:
 
 1.  **Introduction to Go & Setting Up Your Environment**
-    *   [x] What is Go? Why use it?
-    *   [x] Installing Go (and verifying the installation).
-    *   [x] Your first "Hello, World!" program.
-    *   [x] Understanding Go's project structure.
+    *   [ ] What is Go? Why use it?
+    *   [ ] Installing Go (and verifying the installation).
+    *   [ ] Your first "Hello, World!" program.
+    *   [ ] Understanding Go's project structure.
 
 2.  **Basic Syntax & Data Types**
-    *   [x] Variables, Constants, and Data Types (int, float, string, bool).
+    *   [ ] Variables, Constants, and Data Types (int, float, string, bool).
     *   [ ] Operators (arithmetic, comparison, logical).
     *   [ ] Control Flow (if/else, for loops).
 
