@@ -12,8 +12,8 @@ This tutorial will guide you through the Go programming language. We'll cover th
 
 2.  **Basic Syntax & Data Types**
     *   [x] Variables, Constants, and Data Types (int, float, string, bool).
-    *   [ ] Operators (arithmetic, comparison, logical).
-    *   [ ] Control Flow (if/else, for loops).
+    *   [x] Operators (arithmetic, comparison, logical).
+    *   [x] Control Flow (if/else, for loops).
 
 3.  **Functions & Packages**
     *   [ ] Defining and calling functions.
