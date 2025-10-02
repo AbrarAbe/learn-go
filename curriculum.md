@@ -16,10 +16,10 @@ This tutorial will guide you through the Go programming language. We'll cover th
     *   [x] Control Flow (if/else, for loops).
 
 3.  **Functions & Packages**
-    *   [ ] Defining and calling functions.
-    *   [ ] Function parameters and return values.
-    *   [ ] Introduction to packages and importing.
-    *   [ ] Creating and using custom packages.
+    *   [x] Defining and calling functions.
+    *   [x] Function parameters and return values.
+    *   [x] Introduction to packages and importing.
+    *   [x] Creating and using custom packages.
 
 4.  **Data Structures: Arrays, Slices, and Maps**
     *   [ ] Arrays and Slices: differences and use cases.
